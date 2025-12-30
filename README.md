@@ -29,7 +29,7 @@ Optional (extra coverage):
 
 ## Where to Get DAT Files
 
-- OpenNES: community mirrors / GitHub
+- OpenNES: https://github.com/SnowflakePowered/opengood community mirrors / GitHub
 - No-Intro: https://datomatic.no-intro.org/
 - TOSEC: https://www.tosecdev.org/
 
